@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiApp1</string>
+    <string name="button">Imprimir</string>
+    <string name="hola">Hola</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="buttonSalir">SALIR</string>
+    <string name="todo">TODO</string>
+    <string name="_507">+507</string>
+</resources>
